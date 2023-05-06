@@ -1,0 +1,131 @@
+.nav {
+    background-color: rgb(81, 80, 80);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo img {
+    height: 20px;
+    width: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.body {
+    background-color: white !important;
+}
+
+.trade {
+    height: 30px;
+}
+
+.nav-link {
+    color: white;
+}
+
+.underline {
+    text-decoration: none;
+    padding-right: 20px;
+    font-size: large;
+}
+
+.card-big {
+    height: 700px;
+}
+
+.space {
+    padding-top: 20px;
+}
+.cards {
+    height: 450px;
+}
+
+.border {
+    border: white;
+    border-radius: 1px;
+}
+
+.border-dark {
+    border: black;
+    border-radius: 1px;
+}
+
+.row-one, .row-two, .row-three {
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.carousel {
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.additional-info {
+    padding-top: 20px;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: small;
+    color: grey;
+}
+
+hr {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.more-info, .edit {
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.col-md-2 {
+    margin-right: 30px;
+    font-size: smaller;
+}
+
+.col-md-2 p {
+    margin-bottom: 4px;
+
+}
+
+h6 {
+   font-size: small;
+   margin-bottom: 4px;
+}
+
+.edit {
+    font-size: smaller;
+    margin-top: 30px;
+}
+
+footer {
+    margin-left: 250px;
+    color: grey;
+}
+.footer {
+    display: flex;   
+    font-size: small;
+}
+
+.privacy {
+    margin-left: 30px;
+    margin-right: 150px;
+}
+
+.privacy a {
+    text-decoration: none;
+    padding-right: 10px;
+    color: grey;
+}
+
+.stream {
+    border-radius: 500px;
+    font-size: 16px;
+    padding: 12px 16px;
+    font-weight: 900px;
+}
+
